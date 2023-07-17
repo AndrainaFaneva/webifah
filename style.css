@@ -5,8 +5,8 @@
     font-family: Arial Sans-Serif;
 }
 :root {
-    --white: white;
-    --black: black;
+    --white: black;
+    --black: white;
     --gb: #2B2B2B;
 }
 body {
