@@ -50,13 +50,15 @@ border: 1px solid grey;
 }
 .dayTitle {
     background-color: transparent;
-    color: #5A00FF;
+    color: gold;
     box-shadow: none;
     font-size: 10px;
     font-style: normal;
 border: none;
     border-bottom: 1px solid #5A00FF;
     border-radius: 0;
+font-weight: bold;
+
 }
 .now {
     background-color: #00ABFF;
